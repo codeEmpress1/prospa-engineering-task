@@ -24,9 +24,7 @@ function App() {
         <NavBar/>
         <MainRow>
           <Sidebar/>
-
           <Main/>
-
         </MainRow>
     </React.Fragment>
   );
